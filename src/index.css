@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.eng{
+    border-top-right-radius: 50px;
+}
+.card{
+    box-shadow: 20px 20px 10px gray ;
+}
